@@ -49,4 +49,7 @@ dependencies {
 
     // CardView
     implementation("androidx.cardview:cardview:1.0.0")
+
+    // Google Material
+    implementation("com.google.android.material:material:1.13.0")
 }
